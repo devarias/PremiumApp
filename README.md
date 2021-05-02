@@ -5,7 +5,7 @@
   <img src="https://www.code-inspector.com/project/22175/status/svg">
 </p>
 
-This README provides guidelines to install, and use the Retail API and the Web Application.
+This README provides guidelines to install, and use the Web Application.
 
 # Prerequisites
 
