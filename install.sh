@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-cd backend || exit
+cd back || exit
 ./dependencies.sh
 cd ..
-cd frontend || exit
+cd front || exit
 ./dependencies.sh
