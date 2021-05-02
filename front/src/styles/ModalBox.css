@@ -1,0 +1,17 @@
+.table-items {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.table-items td {
+  padding-left: 5px;
+  width: 130px;
+
+  border: 1px solid;
+}
+.table-items th {
+  padding-left: 5px;
+  border: 1px solid;
+
+  width: 180px;
+}

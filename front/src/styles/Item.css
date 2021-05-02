@@ -1,0 +1,36 @@
+.add-btn {
+  background: #15ff99;
+  border-radius: 12px;
+  border-color: #211953;
+  color: #211953;
+  width: 15%;
+}
+.add-btn:hover,
+.add-btn:focus {
+  background: #6e60ff;
+  color: #fff;
+  border-color: #211953;
+}
+.table-items {
+  background-color: #fff !important;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.table-items td {
+  background-color: #fff;
+  padding-left: 5px;
+  width: 130px;
+
+  border: 1px solid;
+}
+.table-items th {
+  background-color: #fff !important;
+  padding-left: 6px;
+  border: 1px solid;
+
+  width: 180px;
+}
+.th {
+  background-color: #fff;
+}

@@ -1,0 +1,35 @@
+.login {
+  margin-top: 200px;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.ant-form-item-control-input-content {
+  color: #fff;
+}
+.ant-form.ant-form-horizontal {
+  padding: 10px;
+  border-radius: 10px solid;
+}
+.app-name {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+.lgn-btn {
+  background: #6e60ff;
+  border-radius: 12px;
+  border-color: #211953;
+  color: #fff;
+  width: 30%;
+}
+.lgn-btn:hover,
+.lgn-btn:focus {
+  background: #afa8f8;
+  color: #211953;
+}
+body {
+  height: auto;
+  background: #201853;
+}

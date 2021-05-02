@@ -1,0 +1,9 @@
+.firstView {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.intro {
+  width: 50%;
+  height: 50%;
+}

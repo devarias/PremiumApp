@@ -1,0 +1,17 @@
+.titles {
+  text-align: center;
+  font-weight: bold;
+}
+.sub-btn {
+  background: #6e60ff;
+  border-radius: 12px;
+  border-color: #211953;
+  color: #fff;
+  width: 15%;
+}
+.sub-btn:hover,
+.sub-btn:focus {
+  background: #6e60ff;
+  color: #211953;
+  border-color: #211953;
+}

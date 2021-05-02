@@ -1,0 +1,10 @@
+.logo {
+  float: left;
+  width: 100px;
+  height: 31px;
+  margin: 16px 0px 40px 10px;
+  background-image: url('https://uploads-ssl.webflow.com/6006f58a9bc1bb84abf7f9b6/607f2886229e2c2762d97f79_Logo-p-500.png');
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
