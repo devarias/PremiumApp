@@ -22,7 +22,8 @@ This README provides guidelines to install, and use the Retail API and the Web A
 
 # Running
 
-* To start the backend you need to have an API Key to run the next command `cd back && API_KEY=xxxxxxxxxxxxxxxxxxxx npm start`
+* To start the backend you need to have an API Key to run the next command
+* `cd back && API_KEY=xxxxxxxxxxxxxxxxxxxx npm start`
 * To start the front you have to open a new terminal in the root folder.
 * `cd front && npm start`
 * To exit from the web application or the app of the backend, in the terminal just press `Ctrl + C`
